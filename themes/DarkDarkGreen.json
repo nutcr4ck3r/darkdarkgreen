@@ -123,7 +123,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#003c3d"
+        "foreground": "#004b4d"
       }
     },
     {
@@ -1623,7 +1623,7 @@
       "name": "comments",
       "scope": ["beginning.punctuation.definition.list.markdown.xi"],
       "settings": {
-        "foreground": "#003c3d"
+        "foreground": "#004b4d"
       }
     },
     {
@@ -1695,14 +1695,14 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#003c3d"
+        "foreground": "#004b4d"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#003436"
+        "foreground": "#004b4d"
       }
     },
     {
@@ -1917,11 +1917,11 @@
     "tab.inactiveBackground": "#001819",
     "tab.inactiveForeground": "#005458",
     "tab.hoverBackground": "#006e73",
-    "tab.hoverForeground": "#00f3ff",
+    "tab.hoverForeground": "#00f2ff",
     "tab.hoverBorder": "#ff000000",
-    "scrollbarSlider.background": "#002a2c",
-    "scrollbarSlider.hoverBackground": "#003e41",
-    "scrollbarSlider.activeBackground": "#003134",
+    "scrollbarSlider.background": "#00f2ff30",
+    "scrollbarSlider.hoverBackground": "#00f2ff40",
+    "scrollbarSlider.activeBackground": "#00f2ff55",
     "progressBar.background": "#00666b",
     "widget.shadow": "#0000005e",
     "editorWidget.foreground": "#009ba3",
